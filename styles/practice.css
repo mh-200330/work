@@ -25,3 +25,9 @@ p{
     border-style: ridge;*/
     border: 10px solid hotpink;
 }
+input{
+    border-color: hotpink ;
+}
+.passinput{
+    border-color: darkmagenta;
+}
