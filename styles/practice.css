@@ -31,3 +31,7 @@ input{
 .passinput{
     border-color: darkmagenta;
 }
+
+#anouncementText{
+    color: rgb(82, 14, 14);
+}
