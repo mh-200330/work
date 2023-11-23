@@ -35,3 +35,9 @@ input{
 #anouncementText{
     flood-color: midnightblue;
 }
+input :hover {
+    width: 100px;
+}
+input :focus{
+    width: 200px;
+}
